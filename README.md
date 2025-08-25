@@ -1,4 +1,4 @@
-## 모험심을 갖고 즐겁게 일하는 디자이너 👊🏻
+## 최선을 다하고 후회하지 말 것!
 
 <!--
 **seyeon84/seyeon84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
