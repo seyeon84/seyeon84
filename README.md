@@ -1,4 +1,5 @@
 ## 최선을 다하고 후회하지 말 것!
+<p> 1px도 잘 살펴보자 </p>
 
 <!--
 **seyeon84/seyeon84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
