@@ -2,7 +2,7 @@
 <p> 1px도 잘 살펴보자 </p>
 
 <!--
-**seyeon84/seyeon84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**seyeon84/seyeon84** is a ✨ _special_ ✨ repository because its `수용하는 디자이너` (this file) appears on your GitHub profile.
 
 
 <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
